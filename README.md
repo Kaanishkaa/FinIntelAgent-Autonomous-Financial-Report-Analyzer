@@ -1,4 +1,4 @@
-# FinIntelAgent-Autonomous-Financial-Report-Analyzer
+
 
 # 🚀 FinIntelAgent: Autonomous Financial Report Analyzer
 
@@ -81,7 +81,7 @@ FinIntelAgent/
 | **Frontend** | Streamlit | Interactive dashboard |
 | **Deployment** | Docker + Hugging Face Spaces | Containerized deployment |
 
-## 🚀 Quick Start
+
 
 ### Prerequisites
 - Python 3.9+
